@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+Disallow: /proxy/search/
+Disallow: /proxy/video/
+Disallow: /proxy/channel/
+Disallow: /proxy/playlist/
+Disallow: /study/view/
+Sitemap: https://ybd-project-rn2fjk.onrender.com/sitemap.xml
